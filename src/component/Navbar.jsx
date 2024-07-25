@@ -8,10 +8,10 @@ export default function Navbar() {
                 <Link href={'/'}>Home</Link>
             </div>
             <div className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300">
-                <Link href={'/profil'}>Profile saya</Link>
+                <Link href={'/profil'}>Profile saya?</Link>
             </div>
             <div className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300">
-                <Link href={'/profil2'}>Profile bukan saya</Link>
+                <Link href={'/profil2'}>Profile max ferstapen</Link>
             </div>
             <div className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300">
                 <Link href={'/garage'}>My Garage</Link>
